@@ -182,7 +182,7 @@
         checkout_soon: 'Checkout via Stripe wird bald verfügbar sein.',
         related_wines: 'Diese Weine könnten Ihnen auch gefallen.',
         wine_age: 'Alter Rebstöcke',
-        elevation: 'Höhe',
+        elevation: 'Meter über Meer',
         soil: 'Böden'
       },
       age: {
