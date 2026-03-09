@@ -96,7 +96,7 @@
         added_to_cart: 'Added to cart',
         item_removed: 'Item removed',
         checkout_soon: 'Checkout via Stripe will be available soon.',
-        related_wines: 'These wines might also please you.',
+        related_wines: 'Further recommendations from our wine cellar.',
         wine_age: 'Vine age',
         elevation: 'Elevation',
         soil: 'Soil'
@@ -114,7 +114,7 @@
         index: {
           intro_title: 'Dear wine lovers, welcome to Schloss Englar',
           intro_text: 'With the first warm rays of sunshine and the awakening of nature, a special time of year begins, bringing anticipation for shared moments with family and friends. The coming spring weeks and the Easter season invite you to prepare festive tables and look forward to these occasions with pleasure. With this Easter offer, we would like to present you with a carefully curated selection from our family winery, so that you are perfectly prepared for the upcoming holidays and enjoyable moments of spring.',
-          hero_label: 'Schloss Englar Easter Offer',
+          hero_label: 'A spring for good wine!',
           cta_text: 'Take me to the offer',
           offer_pinot_title: 'Rosé de Castel',
           offer_pinot_text: 'A delicate Rosé capturing the freshness of spring. Elegant and refined—perfect for long days in the sun.',
@@ -180,7 +180,7 @@
         added_to_cart: 'In den Warenkorb gelegt',
         item_removed: 'Artikel entfernt',
         checkout_soon: 'Checkout via Stripe wird bald verfügbar sein.',
-        related_wines: 'Diese Weine könnten Ihnen auch gefallen.',
+        related_wines: 'Weitere Empfehlungen aus unserem Weinkeller.',
         wine_age: 'Alter Rebstöcke',
         elevation: 'Höhe',
         soil: 'Böden'
@@ -198,7 +198,7 @@
         index: {
           intro_title: 'Ostergrüße aus Schloss Englar',
           intro_text: 'Mit den ersten warmen Sonnenstrahlen und dem Erwachen der Natur beginnt eine besondere Zeit des Jahres, die Vorfreude auf gemeinsame Stunden mit Familie und Freunden weckt. Die kommenden Frühlingswochen und die Osterzeit laden dazu ein, festliche Tafeln zu planen und sich genussvoll auf diese Anlässe vorzubereiten. Mit diesem Osterangebot möchten wir Ihnen eine sorgfältig zusammengestellte Auswahl aus unserem Familienweingut an die Hand geben, damit Sie für die kommenden Feiertage und genussvollen Frühlingsmomente bestens vorbereitet sind.',
-          hero_label: 'Schloss Englar Osterangebot',
+          hero_label: 'Ein Frühling für guten Wein!',
           cta_text: 'Entdecke das Angebot',
           offer_pinot_title: 'Rosé de Castel',
           offer_pinot_text: 'Unser zarter Rosé besticht durch lebendige Erdbeernoten und feine Mineralität. Ein eleganter Wein für die länger werdenden Frühlingstage.',
@@ -263,7 +263,7 @@
         added_to_cart: 'Aggiunto al carrello',
         item_removed: 'Elemento rimosso',
         checkout_soon: 'Il checkout tramite Stripe sarà disponibile a breve.',
-        related_wines: 'Questi vini potrebbero piacerti anche.',
+        related_wines: 'Altri consigli dalla nostra cantina.',
         wine_age: 'Età viti',
         elevation: 'Altitudine',
         soil: 'Terreno'
@@ -281,7 +281,7 @@
         index: {
           intro_title: 'Cari appassionati di vino, benvenuti a Schloss Englar',
           intro_text: 'Con i primi caldi raggi di sole e il risveglio della natura inizia un periodo speciale dell’anno, che accende l’attesa di momenti condivisi con famiglia e amici. Le prossime settimane primaverili e il periodo pasquale invitano a preparare tavole festive e a pregustare con piacere queste occasioni. Con questa offerta pasquale desideriamo metterVi a disposizione una selezione accuratamente composta della nostra azienda vinicola di famiglia, affinché siate perfettamente preparati per le prossime festività e i piacevoli momenti della primavera.',
-          hero_label: 'Schloss Englar Offerte Pasqua',
+          hero_label: 'Una primavera per il buon vino!',
           cta_text: 'Scopri l\'offerta',
           offer_pinot_title: 'Rosé de Castel',
           offer_pinot_text: 'Un elegante rosato che cattura la freschezza della primavera. Delicato e raffinato – perfetto per lunghe giornate al sole.',
